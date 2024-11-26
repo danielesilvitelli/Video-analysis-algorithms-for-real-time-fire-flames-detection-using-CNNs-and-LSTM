@@ -1,8 +1,6 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-# Video-analysis-algorithms-for-real-time-fire-flames-detection-using-CNNs-and-LSTM
-
-# 🚀 MyAwesomeProject - The future of task management!
+# 🚀 Video analysis algorithms for real-time fire flames detection using CNNs and LSTM
 Imagine having everything under control, never forgetting anything. **MyAwesomeProject** helps you organize your life and tasks, boosting productivity and satisfaction. 🎯
 
 ## 🌟 Key Features:
