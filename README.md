@@ -28,6 +28,7 @@ Fire detection is a critical component of modern safety systems, and early detec
 
 **8. Potential for Real-World Applications**
 - This work has practical applications in various fields, including:
+
    - ***Building and Industrial Fire Safety Systems***
    - ***Smart Cities and Disaster Management***
    - ***Forest Fire Detection Systems***
