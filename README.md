@@ -5,7 +5,7 @@ Fire detection is a critical component of modern safety systems, and early detec
 
 ## 🌟 Key Features
 - **Real-time detection**
---The system is designed to analyze video streams in real-time, enabling immediate identification of fire flames. This is critical for fast emergency responses, especially in environments where rapid action is required (e.g., buildings, factories, forests).
+- ***The system is designed to analyze video streams in real-time, enabling immediate identification of fire flames. This is critical for fast emergency responses, especially in environments where rapid action is required (e.g., buildings, factories, forests).***
 - **Integration of CNNs and LSTM**
 CNNs (Convolutional Neural Networks): Used for spatial feature extraction to detect visual patterns of fire flames, such as flickering, color variations, and movement.
 LSTM (Long Short-Term Memory network): Incorporates temporal analysis, allowing the system to track the continuity of the fire across frames and recognize its evolution over time, which is essential for distinguishing fire from other visual disturbances.
