@@ -1,7 +1,9 @@
 # 📽🔥 Video analysis algorithms for real-time fire flames detection using CNNs and LSTM
+<br><br>
 
 ## 🤔 Why?
 Fire detection is a critical component of modern safety systems, and early detection can save lives and prevent significant property damage. This research focuses on developing advanced video analysis algorithms that use Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs) to detect fire flames in real time. By combining the power of deep learning with video surveillance, the system can identify fire outbreaks instantly, enabling quicker responses and reducing the risk of catastrophic outcomes. This work is crucial not only for enhancing public safety but also for advancing the field of AI-powered image and video processing, with applications spanning from fire prevention systems to disaster management.
+<br><br>
 
 ## 🌟 Key Features
 **1. Real-time detection**
@@ -36,6 +38,7 @@ Fire detection is a critical component of modern safety systems, and early detec
 
 **9. Potential for Future Improvements**
 - The system can be further enhanced by incorporating additional deep learning models for multi-modal sensor fusion (e.g., integrating temperature or smoke sensors with video data) or improving performance with more advanced networks.
+<br><br>
 
 ## ⚡ Getting Started
 1. Clone the repository:
@@ -63,6 +66,7 @@ Fire detection is a critical component of modern safety systems, and early detec
 4. Select the scenario based on the setting in which you want to detect the fire
 5. Upload the video to analyze or open the PC camera if you want to detect fire where you are
 6. Play the detection!
+<br><br>
    
 ## 📸 Screenshots from demo
 
@@ -102,9 +106,11 @@ I would greatly appreciate it if you would contribute to the improvement of the 
 2. Create a branch for your improvement (`git checkout -b feature/your-feature-name`)
 3. Commit your changes (`git commit -m "Add new feature"`)
 4. Push and open a Pull Request!
+<br><br>
 
 ## 📚 Additional Resources
 - [Official Documentation](https://github.com/danielesilvitelli/Video-analysis-algorithms-for-real-time-fire-flames-detection-using-CNNs-and-LSTM/blob/main/documentation.pdf)
+<br><br>
 
 ## 🔔 Stay Updated!
 - Follow the project on [LinkedIn](https://it.linkedin.com/in/daniele-silvitelli-a35326208) for the latest updates.
