@@ -67,8 +67,9 @@ Fire detection is a critical component of modern safety systems, and early detec
 ## 📸 Screenshots from demo
 <figure>
   <img src="assets/urban-long-range.PNG" alt="Urban long-range">
-  <figcaption>Figure 1 - Frame extracted from a video capture of an urban long-range scenario.</figcaption>
    <p align="center">
+  <figcaption>Figure 1 - Frame extracted from a video capture of an urban long-range scenario.</figcaption>
+   </p>
 </figure>
 
 ![Urban short-range](assets/urban-short-range.PNG)
