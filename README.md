@@ -43,12 +43,21 @@ Fire detection is a critical component of modern safety systems, and early detec
    git clone https://github.com/danielesilvitelli/Video-analysis-algorithms-for-real-time-fire-flames-detection-using-CNNs-and-LSTM.git
    ```
 2. Install dependencies:
+- Install OpenCV
    ```bash
-   npm install
+   pip install opencv-python
+   ```
+- Install numpy
+   ```bash
+   pip install numpy
+   ```
+- Install TensorFlow
+   ```bash
+   pip install tensorflow
    ```
 3. Run the project:
    ```bash
-   npm start
+   python demo.py
    ```
    
 ## 📸 Screenshots from demo
