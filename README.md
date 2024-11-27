@@ -1,5 +1,3 @@
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
 # 📽🔥 Video analysis algorithms for real-time fire flames detection using CNNs and LSTM
 
 ## 🤔 Why?
