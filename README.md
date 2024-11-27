@@ -65,9 +65,10 @@ Fire detection is a critical component of modern safety systems, and early detec
 6. Play the detection!
    
 ## 📸 Screenshots from demo
-
-![Urban long-range](assets/urban-long-range.PNG)
-         Figure 1 - ***Frame extracted from a video capture of an urban long-range scenario***
+<figure>
+  <img src="assets/urban-long-range.PNG" alt="Urban long-range">
+  <figcaption>Figure 1 - Frame extracted from a video capture of an urban long-range scenario.</figcaption>
+</figure>
 
 ![Urban short-range](assets/urban-short-range.PNG)
          Figure 2 - ***Frame extracted from a video capture of an urban short-range scenario***
