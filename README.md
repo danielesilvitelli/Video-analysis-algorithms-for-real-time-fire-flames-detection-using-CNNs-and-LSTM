@@ -65,26 +65,42 @@ Fire detection is a critical component of modern safety systems, and early detec
 6. Play the detection!
    
 ## 📸 Screenshots from demo
-<figure>
-  <img src="assets/urban-long-range.PNG" alt="Urban long-range">
-   <p align="center">
-  <figcaption>Figure 1 - Frame extracted from a video capture of an urban long-range scenario.</figcaption>
-   </p>
-</figure>
+
+![Urban long-range](assets/urban-long-range.PNG)
+<p align="center">
+   <strong><em>Figure 1 - Frame extracted from a video capture of an urban long-range scenario</em></strong>
+</p>
+
+
 
 ![Urban short-range](assets/urban-short-range.PNG)
 <p align="center">
    <strong><em>Figure 2 - Frame extracted from a video capture of an urban short-range scenario</em></strong>
 </p>
 
+
+
 ![Wild long-range](assets/wild-long-range.PNG)
-         Figure 3 - ***Frame extracted from a video capture of a wild long-range scenario***
+<p align="center">
+   <strong><em>Figure 3 - Frame extracted from a video capture of a wild long-range scenario</em></strong>
+</p>
+
+
 
 ![Wild short-range](assets/wild-short-range.PNG)
-         Figure 4 - ***Frame extracted from a video capture of a wild short-range scenario***
+<p align="center">
+   <strong><em>Figure 4 - Frame extracted from a video capture of a wild short-range scenario</em></strong>
+</p>
+
+
 
 ![Webcam](assets/webcam.PNG)
-         Figure 5 - ***Webcam acquisition frame***
+<p align="center">
+   <strong><em>Figure 5 - Webcam acquisition frame</em></strong>
+</p>
+
+
+
 
 ## 🤝 Contributing
 I would greatly appreciate it if you would contribute to the improvement of the project! In this case, please follow these simple steps:
