@@ -1,5 +1,4 @@
 import os
-import vlc
 import cv2
 import copy
 import numpy as np
