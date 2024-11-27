@@ -60,6 +60,9 @@ Fire detection is a critical component of modern safety systems, and early detec
    ```bash
    python demo.py
    ```
+4. Select the scenario based on the setting in which you want to detect the fire
+5. Upload the video to analyze or open the PC camera if you want to detect fire where you are
+6. Play the detection!
    
 ## 📸 Screenshots from demo
 ![App Screenshot](https://link-to-your-image.com/screenshot.png)
