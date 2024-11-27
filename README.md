@@ -43,6 +43,7 @@ Fire detection is a critical component of modern safety systems, and early detec
    git clone https://github.com/danielesilvitelli/Video-analysis-algorithms-for-real-time-fire-flames-detection-using-CNNs-and-LSTM.git
    ```
 2. Install dependencies:
+   
    - Install OpenCV
       ```bash
       pip install opencv-python
