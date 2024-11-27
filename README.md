@@ -1,6 +1,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-# 🔥 Video analysis algorithms for real-time fire flames detection using CNNs and LSTM
+# 📹📽🔥 Video analysis algorithms for real-time fire flames detection using CNNs and LSTM
+
+## 🤔 Why?
 Fire detection is a critical component of modern safety systems, and early detection can save lives and prevent significant property damage. This research focuses on developing advanced video analysis algorithms that use Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs) to detect fire flames in real time. By combining the power of deep learning with video surveillance, the system can identify fire outbreaks instantly, enabling quicker responses and reducing the risk of catastrophic outcomes. This work is crucial not only for enhancing public safety but also for advancing the field of AI-powered image and video processing, with applications spanning from fire prevention systems to disaster management.
 
 ## 🌟 Key Features
@@ -51,7 +53,7 @@ Fire detection is a critical component of modern safety systems, and early detec
    npm start
    ```
    
-## 📸 Screenshot
+## 📸 Screenshots from demo
 ![App Screenshot](https://link-to-your-image.com/screenshot.png)
 
 ## 🤝 Contributing
@@ -63,9 +65,6 @@ I would greatly appreciate it if you would contribute to the improvement of the 
 
 ## 📚 Additional Resources
 - [Official Documentation](https://github.com/danielesilvitelli/Video-analysis-algorithms-for-real-time-fire-flames-detection-using-CNNs-and-LSTM/blob/main/documentation.pdf)
-
-## 🤔 Why MyAwesomeProject?
-Every day, millions of people get distracted or forget important tasks. MyAwesomeProject was created to solve this problem, helping you organize your days smartly and efficiently!
 
 ## 🔔 Stay Updated!
 - Follow the project on [LinkedIn](https://it.linkedin.com/in/daniele-silvitelli-a35326208) for the latest updates.
