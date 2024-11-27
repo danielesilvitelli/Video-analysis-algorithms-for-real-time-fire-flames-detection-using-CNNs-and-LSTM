@@ -68,9 +68,10 @@ Fire detection is a critical component of modern safety systems, and early detec
 
 ![Webcam](assets/webcam.PNG)
 <p align="center">
-   <strong><em>Figure 5 - Webcam acquisition frame</em></strong>
+   <strong><em>Figure 1 - Webcam acquisition frame</em></strong>
 </p>
 <br><br>
+
 ![Urban long-range](assets/urban-long-range.PNG)
 <p align="center">
    <strong><em>Figure 1 - Frame extracted from a video capture of an urban long-range scenario</em></strong>
